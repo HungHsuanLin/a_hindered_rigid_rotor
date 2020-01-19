@@ -1,2 +1,2 @@
 # a_hindered_rigid_rotor
-A python script for calculating rotational transitional of a hindered rigid rotor
+A python script for calculating rotational transition of a hindered rigid rotor. This script allows one to calculate the rotational transition of a rigid rotor with a rotational barrier. The rotational barrier could be one-dimensional or two. The default one-dimensional barrier is <img src="https://render.githubusercontent.com/render/math?math=acos^2(\theta)"> while the two-diemnsional one is <img src="https://render.githubusercontent.com/render/math?math=[a+\frac{b}{2}cos^2(\phi)]sin^2(\theta)">. One also can define his or her own rotational barrier.
